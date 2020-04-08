@@ -1,0 +1,27 @@
+{
+  "name": "hitechemployeemanagement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "client": "cd D:\\Z\\NodeReactProjects\\MERN-stack-2020\\front && npm run start",
+    "server": "nodemon index --ignore client/",
+    "dev": "concurrently \"npm run client\" \"npm run server\""
+  },
+  "author": "Amar Tauqeer",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "concurrently": "^5.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.3.5",
+    "mongoose": "^5.7.13",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.1"
+  }
+}
