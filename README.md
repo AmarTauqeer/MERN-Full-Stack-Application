@@ -10,6 +10,8 @@ The application has following features
 
 -Crud operations
 
+-Client side validation
+
 -Export data option
 
 -Order management
