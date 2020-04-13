@@ -25,7 +25,7 @@ The application has following features
 -RestFul API's with express
 
 # Links For Videos:
-https://drive.google.com/file/d/1frmBJ8NBUC0mATmcox15hmmmG7G9kB8S/view?usp=sharing
-https://drive.google.com/file/d/106b0wgjSVY8HK2Jd09ohCi6G_QWeUdfJ/view?usp=sharing
+https://drive.google.com/open?id=1frmBJ8NBUC0mATmcox15hmmmG7G9kB8S
+https://drive.google.com/open?id=106b0wgjSVY8HK2Jd09ohCi6G_QWeUdfJ
 
 
